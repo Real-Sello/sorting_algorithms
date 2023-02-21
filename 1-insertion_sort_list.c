@@ -2,7 +2,7 @@
 
 /**
  * insertion_sort_list - function that sorts
- *  a doubly linked list of integers in ascending order 
+ *  a doubly linked list of integers in ascending order
  * @list: doubly linked list
  * Return: Void
  */
